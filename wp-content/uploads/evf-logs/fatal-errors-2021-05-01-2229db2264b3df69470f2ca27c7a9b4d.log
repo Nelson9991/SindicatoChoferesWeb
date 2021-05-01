@@ -1,0 +1,62 @@
+2021-05-01T15:32:47+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, bool given in C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\includes\class-advanced-page-visit-counter-activator.php:38
+Stack trace:
+#0 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\advanced-page-visit-counter.php(89): Advanced_Visit_Counter_Activator::activate()
+#1 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(292): activate_advanced_visit_counter(false)
+#2 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-admin\includes\plugin.php(701): do_action('activate_advanc...', false)
+#5 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-admin\plugins.php(58): activate_plugin('advanced-page-v...', 'http://localhos...', false)
+#6 {main}
+  thrown
+
+2021-05-01T15:32:49+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, bool given in C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\includes\class-advanced-page-visit-counter-activator.php:38
+Stack trace:
+#0 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\advanced-page-visit-counter.php(89): Advanced_Visit_Counter_Activator::activate()
+#1 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(292): activate_advanced_visit_counter('')
+#2 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-admin\plugins.php(193): do_action('activate_advanc...')
+#5 {main}
+  thrown
+
+2021-05-01T15:32:49+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, bool given in C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\includes\class-advanced-page-visit-counter-activator.php:38
+Stack trace:
+#0 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\advanced-page-visit-counter.php(89): Advanced_Visit_Counter_Activator::activate()
+#1 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(292): activate_advanced_visit_counter('')
+#2 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-admin\plugins.php(193): do_action('activate_advanc...')
+#5 {main}
+  thrown
+
+2021-05-01T15:33:02+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, bool given in C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\includes\class-advanced-page-visit-counter-activator.php:38
+Stack trace:
+#0 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\advanced-page-visit-counter.php(89): Advanced_Visit_Counter_Activator::activate()
+#1 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(292): activate_advanced_visit_counter(false)
+#2 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-admin\includes\plugin.php(701): do_action('activate_advanc...', false)
+#5 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-admin\plugins.php(58): activate_plugin('advanced-page-v...', 'http://localhos...', false)
+#6 {main}
+  thrown
+
+2021-05-01T15:33:03+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, bool given in C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\includes\class-advanced-page-visit-counter-activator.php:38
+Stack trace:
+#0 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\advanced-page-visit-counter.php(89): Advanced_Visit_Counter_Activator::activate()
+#1 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(292): activate_advanced_visit_counter('')
+#2 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-admin\plugins.php(193): do_action('activate_advanc...')
+#5 {main}
+  thrown
+
+2021-05-01T15:33:03+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, bool given in C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\includes\class-advanced-page-visit-counter-activator.php:38
+Stack trace:
+#0 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-content\plugins\advanced-page-visit-counter\advanced-page-visit-counter.php(89): Advanced_Visit_Counter_Activator::activate()
+#1 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(292): activate_advanced_visit_counter('')
+#2 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\SindicatoChoferesWeb-erick\wp-admin\plugins.php(193): do_action('activate_advanc...')
+#5 {main}
+  thrown
+
